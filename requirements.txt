@@ -1,0 +1,6 @@
+pyinstaller
+pyinstaller-hooks-contrib
+tweepy
+numpy==1.19.3
+pandas
+pyyaml

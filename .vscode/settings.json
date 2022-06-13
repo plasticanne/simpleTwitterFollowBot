@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\major\\Anaconda3\\envs\\twitter\\python.exe",
+    "python.languageServer": "Pylance",
+    "python.analysis.typeCheckingMode":"strict"
+}
